@@ -45,7 +45,7 @@ Action and Adventure films dominate summer releases, while family-oriented and h
 ![Number of Films Released per Month by Genre](Visualization/number_of_movies_released_by_month_and_genre.png)
 *Figure 1: Distribution of film releases by month and genre.*
 
-![Average Worldwide Gross by Release Month](Visualization/Average_worldwide_Gross_performance_by_release_month.png)
+![Average Worldwide Gross by Release Month](Visualization/Average_worldwide_Gross_performance_by_release_month.png) <br>
 *Figure 2: Average box office revenue for films released in each month.*
 
 ### 2. Ratings Impact
@@ -63,7 +63,7 @@ Higher production budgets, especially over $100M, strongly correlate with higher
 ![Average Box Office Revenue by Budget Category](Visualization/Average_box_office_revenue_by_production_budget_catagory.png)
 *Figure 5: Comparison of average revenue across different production budget categories.*
 
-![Production Budget vs. Worldwide Gross](Visualization/scatterplot_production_budget_vs_worldwide_gross.png)
+![Production Budget vs. Worldwide Gross](Visualization/scatterplot_production_budget_vs_worldwide_gross.png) <br>
 *Figure 6: Positive correlation between production budgets and box office revenues.*
 
 ## Code
