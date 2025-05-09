@@ -42,7 +42,7 @@ Data cleaning involved handling missing values (replaced with means or "Unknown"
 ### 1. Release Date Insights
 Action and Adventure films dominate summer releases, while family-oriented and holiday-themed movies peak in December. This alignment with seasonal demand contributes to higher box-office revenues during these periods.
 
-![Number of Films Released per Month by Genre]("Visualization/number_of_movies_released_by _month_and_genre.png")
+![Number of Films Released per Month by Genre](Visualization/number_of_movies_released_by_month_and_genre.png)
 *Figure 1: Distribution of film releases by month and genre.*
 
 ![Average Worldwide Gross by Release Month](visualization/line_plot.png)
