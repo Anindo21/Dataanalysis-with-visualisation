@@ -38,12 +38,33 @@ Data cleaning involved handling missing values (replaced with means or "Unknown"
 - **Budget Correlation**: Higher production budgets (especially over $100M) strongly correlate with higher box-office revenues, though mid-budget films ($10M–$50M) also perform well, suggesting other factors like marketing and quality play a role.
 
 ## Visualizations
-The project includes the following visualizations, implemented in the IPython notebook:
-- **Count Plot**: Shows the number of films released per month, segmented by genre.
-- **Line Plot**: Displays average worldwide gross by release month.
-- **Scatter Plots**: Illustrate the relationship between IMDb/Rotten Tomatoes ratings and worldwide gross, with regression lines.
-- **Bar Plot**: Presents average box-office revenue by production budget category, annotated with revenue and film counts.
-- **Scatter Plot with Regression**: Visualizes the correlation between production budgets and worldwide gross.
+
+### 1. Release Date Insights
+Action and Adventure films dominate summer releases, while family-oriented and holiday-themed movies peak in December. This alignment with seasonal demand contributes to higher box-office revenues during these periods.
+
+![Number of Films Released per Month by Genre](visualization/number_of_movies_released_by_month_and_genre.png)
+*Figure 1: Distribution of film releases by month and genre.*
+
+![Average Worldwide Gross by Release Month](images/line_plot.png)
+*Figure 2: Average box office revenue for films released in each month.*
+
+### 2. Ratings Impact
+Films with moderate IMDb ratings (6–7) and Rotten Tomatoes scores (70–80%) tend to achieve higher revenues, likely due to broader audience appeal. Very high or very low ratings do not consistently correlate with high earnings.
+
+![IMDb Rating vs. Worldwide Gross](images/scatter_imdb.png)
+*Figure 3: Relationship between IMDb ratings and box office success.*
+
+![Rotten Tomatoes Rating vs. Worldwide Gross](images/scatter_rt.png)
+*Figure 4: Correlation between Rotten Tomatoes ratings and financial performance.*
+
+### 3. Budget Correlation
+Higher production budgets, especially over $100M, strongly correlate with higher box-office revenues. However, mid-budget films ($10M–$50M) also perform well, indicating that other factors like marketing and quality play significant roles.
+
+![Average Box Office Revenue by Budget Category](images/bar_budget.png)
+*Figure 5: Comparison of average revenue across different production budget categories.*
+
+![Production Budget vs. Worldwide Gross](images/scatter_budget.png)
+*Figure 6: Positive correlation between production budgets and box office revenues.*
 
 ## Code
 The analysis is implemented in the IPython notebook `Untitled1.ipynb`, available in this repository. The notebook includes:
