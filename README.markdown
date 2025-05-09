@@ -42,19 +42,19 @@ Data cleaning involved handling missing values (replaced with means or "Unknown"
 ### 1. Release Date Insights
 Action and Adventure films dominate summer releases, while family-oriented and holiday-themed movies peak in December. This alignment with seasonal demand contributes to higher box-office revenues during these periods.
 
-![Number of Films Released per Month by Genre]("Visualization/number of movies released by month and genre.png")
+![Number of Films Released per Month by Genre]("Visualization/number_of_movies_released_by _month_and_genre.png")
 *Figure 1: Distribution of film releases by month and genre.*
 
-![Average Worldwide Gross by Release Month](images/line_plot.png)
+![Average Worldwide Gross by Release Month](visualization/line_plot.png)
 *Figure 2: Average box office revenue for films released in each month.*
 
 ### 2. Ratings Impact
 Films with moderate IMDb ratings (6–7) and Rotten Tomatoes scores (70–80%) tend to achieve higher revenues, likely due to broader audience appeal. Very high or very low ratings do not consistently correlate with high earnings.
 
-![IMDb Rating vs. Worldwide Gross](images/scatter_imdb.png)
+![IMDb Rating vs. Worldwide Gross](visualization/scatter_imdb.png)
 *Figure 3: Relationship between IMDb ratings and box office success.*
 
-![Rotten Tomatoes Rating vs. Worldwide Gross](images/scatter_rt.png)
+![Rotten Tomatoes Rating vs. Worldwide Gross](visualization/scatter_rt.png)
 *Figure 4: Correlation between Rotten Tomatoes ratings and financial performance.*
 
 ### 3. Budget Correlation
