@@ -67,7 +67,7 @@ Higher production budgets, especially over $100M, strongly correlate with higher
 *Figure 6: Positive correlation between production budgets and box office revenues.*
 
 ## Code
-The analysis is implemented in the IPython notebook `Untitled1.ipynb`, available in this repository. The notebook includes:
+The analysis is implemented in the IPython notebook `MovieBoxOfficeAnalysis.ipynb`, available in this repository. The notebook includes:
 - Data loading and cleaning.
 - Code for all visualizations.
 - Analysis of release dates, ratings, and budgets.
