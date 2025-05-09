@@ -82,7 +82,7 @@ The analysis is implemented in the IPython notebook `Untitled1.ipynb`, available
 4. Run all cells to reproduce the analysis and visualizations.
 
 ## Contributors
-- A K M Rezaul Hoque
+Rezaul Hoque
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
