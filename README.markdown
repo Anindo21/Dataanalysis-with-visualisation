@@ -45,25 +45,25 @@ Action and Adventure films dominate summer releases, while family-oriented and h
 ![Number of Films Released per Month by Genre](Visualization/number_of_movies_released_by_month_and_genre.png)
 *Figure 1: Distribution of film releases by month and genre.*
 
-![Average Worldwide Gross by Release Month](visualization/Average_worldwide_Gross_performance_by_release_month.png)
+![Average Worldwide Gross by Release Month](Visualization/Average_worldwide_Gross_performance_by_release_month.png)
 *Figure 2: Average box office revenue for films released in each month.*
 
 ### 2. Ratings Impact
 Films with moderate IMDb ratings (6–7) and Rotten Tomatoes scores (70–80%) tend to achieve higher revenues, likely due to broader audience appeal. Very high or very low ratings do not consistently correlate with high earnings.
 
-![IMDb Rating vs. Worldwide Gross](visualization/Box_office_revenue_by_imdb_ratings.png)
+![IMDb Rating vs. Worldwide Gross](Visualization/Box_office_revenue_by_imdb_ratings.png)
 *Figure 3: Relationship between IMDb ratings and box office success.*
 
-![Rotten Tomatoes Rating vs. Worldwide Gross](visualization/box_office_revenue_by_rotten_tomatoes.png)
+![Rotten Tomatoes Rating vs. Worldwide Gross](Visualization/box_office_revenue_by_rotten_tomatoes.png)
 *Figure 4: Correlation between Rotten Tomatoes ratings and financial performance.*
 
 ### 3. Budget Correlation
 Higher production budgets, especially over $100M, strongly correlate with higher box-office revenues. However, mid-budget films ($10M–$50M) also perform well, indicating that other factors like marketing and quality play significant roles.
 
-![Average Box Office Revenue by Budget Category](visualization/Average_box_office_revenue_by_production_budget_catagory.png)
+![Average Box Office Revenue by Budget Category](Visualization/Average_box_office_revenue_by_production_budget_catagory.png)
 *Figure 5: Comparison of average revenue across different production budget categories.*
 
-![Production Budget vs. Worldwide Gross](visualization/scatterplot_production_budget_vs_worldwide_gross.png)
+![Production Budget vs. Worldwide Gross](Visualization/scatterplot_production_budget_vs_worldwide_gross.png)
 *Figure 6: Positive correlation between production budgets and box office revenues.*
 
 ## Code
